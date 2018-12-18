@@ -1,0 +1,23 @@
+pandas==0.22.0
+scipy==1.0.1
+numpy==1.14.2
+scikit-learn==0.19.1
+beautifulsoup4==4.6.0
+tensorflow
+nltk>=3.2.5
+langdetect
+pycryptodome
+googletrans
+structlog
+requests
+flasgger
+configparser
+#pycld2==0.31
+# Flask requirements
+Flask
+Flask-Cors==3.0.3
+turicreate
+# production server
+gunicorn==19.7.1
+gevent
+compat
